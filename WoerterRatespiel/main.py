@@ -24,4 +24,4 @@ while main:
         randomWort = getRandomWort(woerter_liste)
         WoeterRatespil(randomWort)
 
-    	
+# Test
