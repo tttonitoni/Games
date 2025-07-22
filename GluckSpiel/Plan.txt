@@ -1,0 +1,16 @@
+main funktonen farben/grafik
+
+Ideen:
+    - Anmelde system um Geld zu Speichern
+
+
+
+
+Glücks Spiel:
+    - Feld 5x5
+    - Richtige und Falsche Felder
+    - Richtiges Feld = mehr geld
+    - Falsches Feld = geld weck
+    - Anzahl von Falschen Feldern einstelbar
+    - Desto mehr falsche desto mehr bekommt man 
+    

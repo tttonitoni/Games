@@ -1,0 +1,23 @@
+
+
+-menu
+    - 1. Spiel Starten
+    - ...
+
+-Mite mit Häusern
+    - Wenn ganze Frabgruppe dann mehr Miete
+    - Mit ganzer Farbgruppe Häuser bauen
+    - Pro Haus mehr Miete
+
+-Unter Spilern Tasuchen 
+    - z.B. Straße gegen geld, 
+    - z.B. Straße gegen mehrere Straßen
+
+    Code:
+    funktion
+    spilder der tauschen will wird übergebn und alle Spiler
+    dan wird gesucht die person die getausch wird
+
+
+
+
