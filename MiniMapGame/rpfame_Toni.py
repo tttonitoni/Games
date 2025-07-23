@@ -123,6 +123,7 @@ def fight(player, enemy):
             player.attack(enemy)
         elif choice == "2":
             player.heal()
+            
         elif choice == "3":
             player.use_special(enemy)
         elif choice == "4":
